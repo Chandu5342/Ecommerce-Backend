@@ -54,7 +54,7 @@ backend/
 Backend Live Api(Render)---https://ecommerce-backend-6lvv.onrender.com
 ##  Run Locally
 ```bash
-git clone <backend-repo-url>
+git clone https://github.com/Chandu5342/Ecommerce-Backend.git
 cd backend
 npm install
 npm start
