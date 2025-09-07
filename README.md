@@ -57,7 +57,7 @@ Backend Live Api(Render)---https://ecommerce-backend-6lvv.onrender.com
 
 To test admin functionality (CRUD operations on products), use the following credentials:
 
-- **Email:** admin@example.com  
+- **Email:** admin@gmail.com  
 - **Password:** 123456  
 
 ##  Run Locally
