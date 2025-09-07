@@ -52,6 +52,14 @@ backend/
 
 ---
 Backend Live Api(Render)---https://ecommerce-backend-6lvv.onrender.com
+
+## 🧑‍💼 Admin Test Account
+
+To test admin functionality (CRUD operations on products), use the following credentials:
+
+- **Email:** admin@example.com  
+- **Password:** 123456  
+
 ##  Run Locally
 ```bash
 git clone https://github.com/Chandu5342/Ecommerce-Backend.git
