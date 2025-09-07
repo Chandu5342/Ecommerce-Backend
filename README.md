@@ -1,10 +1,10 @@
-# 🛒 E-Commerce Backend (MERN Assignment)
+#  E-Commerce Backend (MERN Assignment)
 
 This is the **backend API** for the e-commerce web application built with **Node.js, Express, MongoDB, and JWT authentication**.
 
 ---
 
-## 🚀 Features
+## Features
 - User authentication (Signup, Login) with JWT
 - Role-based access (`user`, `admin`)
 - Product CRUD APIs with filters (category, minPrice, maxPrice)
@@ -13,7 +13,7 @@ This is the **backend API** for the e-commerce web application built with **Node
 
 ---
 
-## 📂 Folder Structure
+## Folder Structure
 backend/
 │── config/ # DB & JWT config
 │── controllers/ # Business logic
@@ -33,7 +33,7 @@ backend/
 
 ---
 
-## 🔑 API Endpoints
+##  API Endpoints
 
 ### Auth
 - `POST /api/auth/signup` → Register user
@@ -52,7 +52,7 @@ backend/
 
 ---
 Backend Live Api(Render)---https://ecommerce-backend-6lvv.onrender.com
-## ⚡ Run Locally
+##  Run Locally
 ```bash
 git clone <backend-repo-url>
 cd backend
